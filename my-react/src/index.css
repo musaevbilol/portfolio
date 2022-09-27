@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mysl {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .mysl {
+    display: none;
+  }
+}

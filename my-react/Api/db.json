@@ -1,0 +1,32 @@
+{
+  "Name": [
+    {
+      "id": 1,
+      "title": "Bilol Musaev",
+      "description": "Frontend Web Developer",
+      "releaseDate": "23.08.2000",
+      "imageURL": "https://luxe-host.ru/wp-content/uploads/b/3/0/b302b3cc168cf7b42dc1ddf308d28d96.png",
+      "price": "$3000",
+      "information": "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data. There are several tools and platforms, such as WordPress, Joomla, and Drupal, available that can be used to develop the front end of a website,",
+      "about": "I'm Frontend Developer and i have two years of experience in this field."
+    },
+    {
+      "id": 1,
+      "title": "Bilol Musaev",
+      "description": "Frontend Web Developer",
+      "releaseDate": "23.08.2000",
+      "imageURL": "",
+      "price": "$3000",
+      "about": "I'm Frontend Developer and i have two years of experience in this field."
+    },
+    {
+      "id": 1,
+      "title": "Bilol Musaev",
+      "description": "Frontend Web Developer",
+      "releaseDate": "23.08.2000",
+      "imageURL": "",
+      "price": "$3000",
+      "about": "I'm Frontend Developer and i have two years of experience in this field."
+    }
+  ]
+}
